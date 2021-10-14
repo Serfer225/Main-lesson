@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,300&display=swap');
+body {
+    background-color: rgb(83, 120, 177);
+
+}
+.name{
+    color: crimson;
+    font-size: 40px;  
+    font-family: 'Montserrat', sans-serif; 
+}
+img{
+    width: 500px;
+    border-radius: 100%;
+}
+.Social{
+    color: rgba(107, 221, 215, 0.795);
+    font-family: 'Montserrat', sans-serif;
+}
+.Hobbies{
+    color: rgb(140, 68, 189);
+    font-family: 'Montserrat', sans-serif;
+}
+.Contact{
+    color: rgb(4, 128, 0);
+    font-family: 'Montserrat', sans-serif;
+}
+.text1{
+    font-family: 'Montserrat', sans-serif;
+}

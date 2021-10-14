@@ -1,0 +1,13 @@
+td{
+text-align: center;
+}
+th{
+    background: linear-gradient(to right, rgb(255, 241, 39),rgb(228, 15, 79),green);
+} 
+table{
+    background-color: antiquewhite  ;
+    margin:auto;
+    width: 1000px;
+    height: 500px;
+    
+}      

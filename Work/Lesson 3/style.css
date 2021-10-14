@@ -1,0 +1,22 @@
+body{
+    background-color: rgba(85, 129, 126, 0.685);
+    font-family: 'Gemunu Libre', sans-serif;
+}
+table{
+    margin: auto;
+    width: 1500px;
+    height: 500px;
+}
+th{
+    background-color: rgba(150, 76, 76, 0.637);
+    color: rgb(190, 165, 22) ;
+}
+.Fizika{
+    background-color: rgb(196, 132, 132);
+}
+.Biologia{
+    background-color: hotpink;
+}
+td{
+    background-color: rgb(136, 93, 167);
+}

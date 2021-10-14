@@ -1,0 +1,35 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Andada+Pro:ital@1&display=swap');
+body {
+    background-image: url(https://a-static.besthdwallpaper.com/watercolo-kartina-tsvetok-rozovyy-magnolia-oboi-1920x1080-53852_48.jpg);
+    
+}
+.Name{
+    font-family: 'Andada Pro', serif;
+    color: chartreuse;
+    font-size: 60px; 
+}
+.def{
+    font-family: 'Andada Pro', serif;
+    font-size: 50px;
+
+}
+a{
+    text-decoration:none;
+}
+table{
+    width: 1500px;
+    height: 700px;
+    margin: auto;
+    font-size: 50px;
+    margin-top: 100px;
+    background-color: bisque   ;
+    opacity: 80%;
+}
+ td:hover{
+    border: 4px, solid, rgb(100, 37, 37);
+    width: 500px;
+    height: 300px;
+    text-decoration: none ;
+    
+}
